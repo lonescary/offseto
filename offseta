@@ -67,4 +67,5 @@ int oCamLerp = 0x30 // public static float camlerp;
 int oCamSpeed = 0x3C // private static float _camspeed;
 int oCamLookSpeed = 0x44 // public static float camlookspeed;
 int oAdminAmbient = 0xC // public static float adminambientmultiplier;
-int oThickness = 0x2c;  // public float thickness;
+int oThickness = 0x2c  // public float thickness;
+int oNewRecoilOverride = 0x80 // public RecoilProperties newRecoilOverride;
