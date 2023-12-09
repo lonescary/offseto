@@ -64,7 +64,6 @@ int odidSparkThisFrame = 0x3B0 // "private bool _didSparkThisFrame"
 int osightAimConeScale = 0x354 // "private float sightAimConeScale"
 int oEntityRef = 0x808 // "private EntityRef mounted"
 int ocanWieldItems = 0x310 // "public bool canWieldItems"
-int onewVelocity = 0x1DC // "private Vector3 newVelocity"
 int oCamLerp = 0x30 // public static float camlerp;
 int oCamSpeed = 0x3C // private static float _camspeed;
 int oCamLookSpeed = 0x44 // public static float camlookspeed;
