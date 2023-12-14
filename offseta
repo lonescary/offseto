@@ -67,3 +67,4 @@ int oCamLookSpeed = 68 // public static float camlookspeed;
 int oAdminAmbient = 12 // public static float adminambientmultiplier;
 int oThickness = 44  // public float thickness;
 int oNewRecoilOverride = 128 // public RecoilProperties newRecoilOverride;
+int ConsoleSystem_Index_c = 55090424 // "Signature": "ConsoleSystem_Index_c*"
