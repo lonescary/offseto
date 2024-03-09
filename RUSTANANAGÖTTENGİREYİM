@@ -1,7 +1,7 @@
-int oBaseGameMode = 60662952  // "Signature": "BaseGameMode_c*"
-int oBaseNetwork = 60665776  // "Signature": "BaseNetworkable_c*"
+int oBaseGameMode = 60662960  // "Signature": "BaseGameMode_c*"
+int oBaseNetwork = 60665784  // "Signature": "BaseNetworkable_c*"
 int oOclusionCulling = 60634528  // "Signature": "OcclusionCulling_c*"
-int oConvarCullingC = 60798072  // "Signature": "ConVar_Culling_c*"
+int oConvarCullingC = 60798136  // "Signature": "ConVar_Culling_c*"
 int oConvarGraphics = 60300568 // "Signature": "ConVar_Graphics_c*"
 int oTodSkyy = 60311472 // "Signature": "TOD_Sky_c*"
 int ooFovConVarGraphics = 24  // private static float _fov
