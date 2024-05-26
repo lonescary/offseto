@@ -70,3 +70,5 @@ int oNewRecoilOverride = 128 // public RecoilProperties newRecoilOverride;
 int ConsoleSystem_Index_c = 62178376 // "Signature": "ConsoleSystem_Index_c*"
 int DebugSettingss = 424 // public OcclusionCulling.DebugSettings debugSettings;
 int Instanceyeni = 112 // private static OcclusionCulling instance; 
+int sekmemeoffset1 = 24 // public ItemDefinition info; // 0x18
+int sekmemeoffset2 = 40 //  public string shortname; // 0x28
