@@ -72,3 +72,4 @@ int DebugSettingss = 424 // public OcclusionCulling.DebugSettings debugSettings;
 int Instanceyeni = 112 // private static OcclusionCulling instance; 
 int sekmemeoffset1 = 24 // public ItemDefinition info; // 0x18
 int sekmemeoffset2 = 40 //  public string shortname; // 0x28
+int LayerFilterr = 32 // public LayerMask layerFilter; // 0x20
