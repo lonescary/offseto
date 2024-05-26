@@ -74,3 +74,4 @@ int sekmemeoffset1 = 24 // public ItemDefinition info; // 0x18
 int sekmemeoffset2 = 40 //  public string shortname; // 0x28
 int LayerFilterr = 32 // public LayerMask layerFilter; // 0x20
 int DebugShoww = 140 //  private static OcclusionCulling.DebugFilter _debugShow;
+int camlerpgt = 56 //  public static float camlerp;
