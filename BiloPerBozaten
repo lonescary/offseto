@@ -79,3 +79,6 @@ int obaseproject2 = 176 // // public BaseProjectile baseProjectile; 0xB0
 int vector3 = 456 // internal Vector3 position; // 0x1C8
 int playerinput7 = 1464 // public PlayerInput input; // 0x5B8
 int inventorybelt = 64 // public List<Item> itemList; // 0x40
+int displayname = 2136 //  protected string _displayName; 0x858
+int bonetransform = 80 // public Transform[] boneTransforms; 0x50
+int transformdegisik = 192 // public Model model;_public class BaseEntity : BaseNetworkable, IProvider, ILerpTarget, IPrefabPreProcess // TypeDefIndex: 8714 0xC0
