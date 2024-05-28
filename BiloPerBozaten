@@ -76,3 +76,6 @@ int LayerFilterr = 32 // public LayerMask layerFilter; // 0x20
 int DebugShoww = 140 //  private static OcclusionCulling.DebugFilter _debugShow;
 int camlerpgt = 56 //  public static float camlerp;
 int obaseproject2 = 176 // // public BaseProjectile baseProjectile; 0xB0
+int vector3 = 456 // internal Vector3 position; // 0x1C8
+int playerinput7 = 1464 // public PlayerInput input; // 0x5B8
+int inventorybelt = 64 // public List<Item> itemList; // 0x40
