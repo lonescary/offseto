@@ -85,3 +85,4 @@ int transformdegisik = 192 // public Model model;_public class BaseEntity : Base
 int vectorbodyangles = 68 // private Vector3 bodyAngles; 0x44
 int bilmiomoffset1 = 780 // ekran görüntüsü alındı 1. satır 0x30C
 int bilmiomoffset2 = 1108 // ekran görüntüsü alındı 2. satır 0x454
+int MainKamera = 62106936 // Signature": "MainCamera_c
