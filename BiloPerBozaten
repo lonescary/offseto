@@ -1,5 +1,5 @@
-int oBaseGameMode = 63384976  // "Signature": "BaseGameMode_c*"
-int oBaseNetwork = 63387472  // "Signature": "BaseNetworkable_c*"
+int oBaseGameMode = 63484032  // "Signature": "BaseGameMode_c*"
+int oBaseNetwork = 63486480  // "Signature": "BaseNetworkable_c*"
 int oOclusionCulling = 63439472  // "Signature": "OcclusionCulling_c*"
 int oConvarCullingC = 63353784  // "Signature": "ConVar_Culling_c*"
 int oConvarGraphics = 63394008 // "Signature": "ConVar_Graphics_c*"
@@ -7,7 +7,7 @@ int oTodSkyy = 63150776 // "Signature": "TOD_Sky_c*"
 int ooFovConVarGraphics = 24  // private static float _fov
 int oConvarAdmin = 63380840 // "Signature": "ConVar_Admin_c*"
 int oConVar_Client_c = 63398760 // "Signature": "ConVar_Client_c*"
-int oconsolsystem = 63485272 // "Signature": "ConsoleSystem_c*"
+int oconsolsystem = 63577776 // "Signature": "ConsoleSystem_c*"
 int opflags = 2104 // public BasePlayer.PlayerFlags playerFlags 2288 / adminflag dt
 int oMainCamera = 63303400 // "Signature": "MainCamera_c*"
 int ooPlayerMovement = 2144 // "public BaseMovement movement"
