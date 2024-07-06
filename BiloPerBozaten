@@ -1,4 +1,4 @@
-int oBaseGameMode = 63605176  // "Signature": "BaseGameMode_c*"
+int oBaseGameMode = 63488392  // "Signature": "BaseGameMode_c*"
 int oBaseNetwork = 63490840  // "Signature": "BaseNetworkable_c*"
 int oOclusionCulling = 63443832   // "Signature": "OcclusionCulling_c*"
 int oConvarCullingC = 63353784   // "Signature": "ConVar_Culling_c*"
