@@ -1,6 +1,6 @@
 int oBaseGameMode = 63496584    // "Signature": "BaseGameMode_c*"
 int oBaseNetwork = 63499032   // "Signature": "BaseNetworkable_c*"
-int oOclusionCulling = 63452024   // "Signature": "OcclusionCulling_c*"
+int oOclusionCulling = 63456120   // "Signature": "OcclusionCulling_c*"
 int oConvarCullingC = 63441352    // "Signature": "ConVar_Culling_c*" "Name": "%ed3bf6cf2e9bf3436320186318e4bbe4cb6e730f_TypeInfo","Signature": "_ed3bf6cf2e9bf3436320186318e4bbe4cb6e730f_c*"
 int oConvarGraphics = 63376504      // "Signature": "ConVar_Graphics_c*"// 388842a6f86dd4568447af8ab40b01b8e84b3b71_TypeInfo
 int oTodSkyy = 63163304       // "Signature": "TOD_Sky_c*"
